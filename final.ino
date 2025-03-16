@@ -26,7 +26,7 @@ String studentUIDs[10] = {
 };
 
 String studentNames[10] = {
-  "Pavan", "Nilesh", "Prathmesh", "Nejkar", "Babar",
+  "Pavan", "Nilesh", "Prathmesh", "Rahul", "Samar",
   "Mahesh", "Pratibha", "Pratik", "Pranit", "Karan"
 };
 
@@ -36,7 +36,7 @@ String studentAddresses[10] = {
 };
 
 // Phone number to send SMS
-String phoneNumber = "+919960979677";
+String phoneNumber = "+91XXXXXXXXX";
 
 void setup() {
   // Initialize Serial Monitor
